@@ -99,3 +99,12 @@ Welp, I'm calling it. It's been a ton of fun, but I'm pretty burnt out on it rig
  - An upgrade screen, where you can spend your hard-earned shark oil dubloons on torpedo and ship upgrades
 
  It's been fun! Time to write the final post, package it and put it online, along with source and timelapse stuff.
+
+ 2014/04/27 4:18pm
+ -----------------
+
+ Unfortunately it seems as though Chronolapse's video tools have just completely shat the bed. Gotta find some new ones now. Maybe I should make a timelapse video creation web app...
+
+ Welp, timelapse is gonna have to wait. I'll give it a shot later on my brother's laptop. My guess is that my video card is ready to give up haha.
+
+ 
