@@ -18,7 +18,7 @@ Tool list:
 
 That's all I can think of for now. Best of luck to all entrants!
 
-2014/04/15 7:47pm
+2014/04/25 7:47pm
 -----------------
 
 > Beneath the Surface
@@ -37,7 +37,7 @@ Next steps are figuring out some big design decisions, then creating a backlog, 
 
 Exciting!
 
-2014/04/15 9:23pm
+2014/04/25 9:23pm
 -----------------
 
 Okay. Nachos created, nachos eaten. I've had some more time to think about this.
@@ -55,3 +55,47 @@ As for powerups, will increases in health, speed, and damage be enough? I'm worr
 That might be something I can work out a little later. If I get the basic gameplay working, with the appropriate ramp-up of standard enemies, then I can start working in an upgrade system.
 
 Backlog time!
+
+2014/04/26 12:19am
+------------------
+
+Just had a pretty major crash. Hopefully I haven't lost too much progress.
+
+Looks like it was mostly just the prefabs in the editor. Sucks, but it'll be pretty straightforward to redo. Lesson learned. Signing off til tomorrow.
+
+2014/04/26 11:36am
+------------------
+
+Hokays, looks like I just have to redo all of the prefabs. There weren't too many, so it'll be easy.
+
+I was having trouble with the movement that I was looking for, so I checked out one of my old projects and was able to find the code. It's basically having the player rotate towards a given angle with a dampened torque, rather than just having the transform point in the right direction. It looks pretty cool!
+
+I'm working on the sea particles now, and trying not to make it look like space. Maybe just a small rotation or movement will be a good effect for that.
+
+2014/04/26 2:26pm
+-----------------
+
+Had another crash >:[ I don't think I lost anything this time though. I was slowing down a bit, so I took a break and finally beat FTL for the first time. Woohoo!
+
+Working on sharks now. There's some spawning issues, so I have to take care of those before I can really get to work on the AI.
+
+2014/04/27 9:56am
+-----------------
+
+Artwork is in, basic gameplay is working. I think that the next goal for me is to add sounds, music, and particle effects for thrusting. And art for explosions and bubbles.
+
+As for expanding gameplay, I think for now I'm just going to start spawning larger and larger sharks. Another thing I have to think about is world boundaries; should I keep rock walls and floors, and somehow figure out the surface constraint? Or should I figure out the endless looping, like in Luftrausers? It'd be an awesome effect, and if I could do it reliably it'd be much simpler than world constraints.
+
+Before all that, though, I have to adjust the torpedo explosion force and damage. Excelsior!
+
+2014/04/27 3:22pm
+-----------------
+
+Welp, I'm calling it. It's been a ton of fun, but I'm pretty burnt out on it right now. All the basic gameplay is in there. Things I would like to include eventually:
+
+ - Sound
+ - Giblets
+ - Increasing sizes and difficulties of sharks
+ - An upgrade screen, where you can spend your hard-earned shark oil dubloons on torpedo and ship upgrades
+
+ It's been fun! Time to write the final post, package it and put it online, along with source and timelapse stuff.
